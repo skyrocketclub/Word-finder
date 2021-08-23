@@ -1,0 +1,4 @@
+-IC:\Users\ugo\Documents\Part_Two\Word_Finder_app
+-std=c++17
+-target
+
